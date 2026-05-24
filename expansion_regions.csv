@@ -1,0 +1,11 @@
+region,state,latitude,longitude,demand_score,population_density,avg_income,competitor_stores,expansion_score
+Brooklyn NY,NY,40.67,-73.94,92,35000,65000,5,62.8
+Sacramento CA,CA,38.57,-121.46,85,8000,58000,3,52.7
+Austin TX,TX,30.26,-97.74,88,12000,72000,4,58.8
+Memphis TN,TN,35.14,-90.04,72,6500,45000,2,43.4
+Denver CO,CO,39.73,-104.98,80,9000,68000,3,53.9
+Portland OR,OR,45.52,-122.67,75,7500,62000,2,49.9
+Las Vegas NV,NV,36.17,-115.13,78,6000,55000,4,48.5
+Atlanta GA,GA,33.74,-84.38,83,10000,60000,3,52.9
+Miami FL,FL,25.77,-80.19,87,15000,58000,5,54.7
+Seattle WA,WA,47.6,-122.33,89,11000,75000,4,59.9
